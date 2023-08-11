@@ -1,0 +1,11 @@
+{
+    "libros": [
+        {
+          "nombre": "Crepusculo",
+          "genero": "Novela",
+          "autor": "Stephenie Meyer",
+          "precio": "90.00",
+          "id": 1
+        }
+      ]
+}
